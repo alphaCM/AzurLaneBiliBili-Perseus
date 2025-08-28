@@ -26,7 +26,7 @@ chmod +x apkeep
 # Download Azur Lane
 if [ ! -f "com.bilibili.AzurLane.apk" ]; then
     echo "Get Azur Lane apk"
-
+https://imtt2.dd.qq.com/sjy.00008/sjy.00002/16891/apk/9903C0B0EB455A130EC7B802EB38F346.apk?fsname=com.tencent.tmgp.bilibili.blhx_9611.apk
     # eg: wget "your download link" -O "your packge name.apk" -q
     #if you want to patch .xapk, change the suffix here to wget "your download link" -O "your packge name.xapk" -q
     wget https://pkg.biligame.com/games/blhx_9.5.11_0427_1_20250506_095207_d4e3f.apk -O com.bilibili.AzurLane.apk -q
